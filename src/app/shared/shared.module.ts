@@ -4,7 +4,7 @@ import { LevelPipe } from './pipes/level/level.pipe';
 import { ColorPipe } from './pipes/color/color.pipe';
 
 const PIPES = [
-  LevelPipe,
+  LevelPipe, 
   ColorPipe
 ]
 
